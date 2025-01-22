@@ -10,6 +10,17 @@ HODLAI is a dashboard for tracking and predicting wallet balances across multipl
 - Real-time wallet monitoring
 - Docker containerization
 
+## Stack
+
+- React.js
+- TailwindCSS
+- Express.js
+- JWT
+- PostgreSQL
+- Hardhat
+- Solidity
+- Docker
+
 ## Local Development Setup
 
 1. Clone the repository:
