@@ -12,7 +12,8 @@ HODLAI is a dashboard for tracking and predicting wallet balances across multipl
 
 ## Local Development Setup
 
-1. Clone the repository:```bash
+1. Clone the repository:
+```bash
 git clone <repository-url>
 cd crypto-dashboard
 ```
